@@ -1,0 +1,10 @@
+[package]
+name = "mux-demux"
+version = "0.1.0"
+edition = "2021"
+description = "Multiplexing and demultiplexing with channel management, stream identification, and frame parsing"
+license = "MIT OR Apache-2.0"
+authors = ["SuperInstance"]
+repository = "https://github.com/SuperInstance/mux-demux"
+keywords = ["multiplex", "demultiplex", "channel", "stream", "frame"]
+categories = ["network-programming", "encoding"]
